@@ -1,9 +1,9 @@
 <h2 align="center">Hi there, I'm Vlad Shuliar 👋🏻</h2>
 
 <p align="center">
-  Data Science Acceleration @ <a href="https://www.roche.com/">Roche</a>, helping clinical trials move faster.
+  I work in Data Science Acceleration @ <a href="https://www.roche.com/">Roche</a>, helping clinical trials move faster.
   <br />
-  AI researcher, hackathon enthusiast, and open-source contributor.
+  I’m also an AI researcher, hackathon enthusiast, and open-source contributor.
 </p>
 
 <p align="center">
