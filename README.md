@@ -19,8 +19,6 @@
   </a>
 </p>
 
----
-
 ## Featured Projects
 
 - **🎙️ <a href="https://github.com/vbshuliar/knowcast-ai">KnowCast AI</a>** — 2nd place at Tech Europe London Hackathon; AI tool that turns topics into multi-speaker podcast-style discussions.
