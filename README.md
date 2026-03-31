@@ -21,7 +21,7 @@
 
 ## Featured Projects
 
-- **🎙️ <a href="https://github.com/vbshuliar/knowcast-ai">KnowCast AI</a>** — 2nd place at { Tech Europe } London Hackathon; AI tool that turns topics into multi-speaker podcast-style discussions.
+- **🎙️ <a href="https://github.com/vbshuliar/knowcast-ai">KnowCast AI</a>** — 2nd place at `{Tech : Europe}` London Hackathon; AI tool that turns topics into multi-speaker podcast-style discussions.
 - **🎮 <a href="https://play.google.com/store/apps/details?id=com.vbshuliar.apple_of_fortune&hl=en_GB">Apple of Fortune</a>** — Solo-built mobile game launched at 19 that reached 450k users.
 - **🌐 <a href="https://github.com/vbshuliar/polyverse">Polyverse</a>** — HackEurope project submission focused on detecting breaking-news signals before prediction markets react.
 - **🍽️ <a href="https://github.com/vbshuliar/menuflow-ai">MenuFlow AI</a>** — Finalist at the Google DeepMind × Vercel hackathon; AI app that turns menu photos into personalised digital menus.
