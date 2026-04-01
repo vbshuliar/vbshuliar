@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img width="260" src="https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif" alt="Rick Astley gif" />
+  <img width="260" src="https://github.com/user-attachments/assets/573e4b1f-da69-4212-8d6f-88e49f6622e2" alt="Rick Astley gif" />
 </p>
 
 <p align="center">
